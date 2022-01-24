@@ -5,4 +5,4 @@ binary.o: binary.c
 	gcc -c binary.c
 
 clean:
-	rm *.o
+	rm *.o 
