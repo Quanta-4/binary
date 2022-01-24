@@ -1,0 +1,3 @@
+/home/rently/Documents/binarytest/build/CMakeFiles/rebuild_cache.dir
+/home/rently/Documents/binarytest/build/CMakeFiles/edit_cache.dir
+/home/rently/Documents/binarytest/build/CMakeFiles/binary.dir
