@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/binary.dir/binary.c.o  -o binary 
